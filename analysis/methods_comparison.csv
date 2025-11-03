@@ -1,0 +1,3 @@
+method,model_path,metrics_path,model_size_bytes,model_size_mb,throughput_eps,f2,pr_auc
+LogReg+SMOTE (F2),models/baseline_logreg.pkl,models/metrics.json,62451,0.05955791473388672,501822.0321804708,0.5963302752293578,0.5785779372752008
+RandomForest (F2),models/tree_f2.pkl,models/tree_metrics.json,11469105,10.937790870666504,19316.05891718166,0.5351170568561873,0.41847091534057174
